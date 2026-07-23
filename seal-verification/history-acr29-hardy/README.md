@@ -2,9 +2,9 @@
 
 ## Golden Trajectory rule (authoritative sources only)
 
-The transmission clause **must** be verified from an official California Assembly Chief Clerk document (or a Wayback Machine raw capture of that same `clerk.assembly.ca.gov` file).
+The transmission clause **must** be verified from the official California Assembly Chief Clerk Volume 2 chapters PDF on `clerk.assembly.ca.gov`.
 
-**Do not use** GitHub, htmlpreview, jsDelivr, litterbox, or any other third-party extract as a Golden Trajectory / verification source.
+**Do not use** Web Archive / Wayback Machine captures, GitHub, htmlpreview, jsDelivr, litterbox, or any other third-party host or extract as a Golden Trajectory / verification source.
 
 ## Golden Trajectory sources
 
@@ -14,14 +14,13 @@ The transmission clause **must** be verified from an official California Assembl
 | Catalog | https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959 |
 | Measures — Ch. 48 = ACR 29 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol1_Measures.PDF#page=46 |
 | Index — Hardy → p. 5483 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Index.pdf#page=90 |
-| **Vol. 2 chapters (official) — clause on PDF p. 2462 / printed p. 5484** | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf |
-| Same official file (Wayback `id_` raw mirror of clerk.assembly.ca.gov) | https://web.archive.org/web/20260723173052id_/https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf |
+| **Vol. 2 chapters (official Chief Clerk) — clause on PDF p. 2462 / printed p. 5484** | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf |
 
 Full text: `GOLDEN_TRAJECTORY.md` · URL list: `VERIFICATION_SOURCES.md`
 
 ### How to open Vol. 2 and reach the answer
 
-1. **Download** `59Vol2_Chapters.pdf` from the Chief Clerk URL (or the Wayback `id_` raw mirror of that same URL).
+1. **Download** `59Vol2_Chapters.pdf` from the Chief Clerk URL above (official `clerk.assembly.ca.gov` host only).
 2. Open the **downloaded** file in a desktop PDF reader (Adobe, Preview, Okular, etc.). In-browser remote preview of this linearized 143 MB scan is unreliable.
 3. Go to **PDF page 2462** (= printed page **5484**). PDF page 2461 = printed 5483 (start of ACR 29 / Ch. 48).
 4. Read the transmission clause → **Mrs. Esther Pomeroy Winterer** of Short Hills, New Jersey.
