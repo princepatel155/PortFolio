@@ -31,6 +31,12 @@ This folder contains **page extracts taken directly from that same official cler
 | `official-index-hardy-entry.png` | Scan of official Index line: Hardy memorial → 5483 |
 | `ACR29_Hardy_1959_pp5483-5484.pdf` | Earlier 2-page extract (same pages) |
 
+## Identifying WHEREAS findings (printed p. 5484) — record before the clause
+
+> … was President of San Diego State College from 1910 to 1935 …
+>
+> … receiving a bachelor of literature degree from the University of Wisconsin … a master of arts degree from the University of Chicago … and an honorary doctor of laws degree from La Verne College …
+
 ## Verbatim transmission clause (printed p. 5484)
 
 > Resolved, That the Chief Clerk of the Assembly be directed to transmit suitably prepared copies of this resolution to Dr. Hardy's widow, Mary Hardy, and his four daughters, Mrs. Anne Davis, Mrs. Mary Hobbs of Washington, D. C., Mrs. Millison Cutler Doble of Sausalito, and Mrs. Esther Pomeroy Winterer of Short Hills, New Jersey.
