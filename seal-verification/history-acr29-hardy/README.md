@@ -8,6 +8,12 @@ https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes
 **Archive landing page:**
 https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959
 
+## Files in this folder
+
+- `ACR29_Hardy_1959_pp5483-5484.pdf` — 2-page extract
+- `statutes-1959-vol2-printed-p5483.png` — scan of printed p. 5483
+- `statutes-1959-vol2-printed-p5484.png` — scan of printed p. 5484 (transmission clause)
+
 ## Verbatim transmission clause (from the resolution)
 
 > Resolved, That the Chief Clerk of the Assembly be directed to transmit suitably prepared copies of this resolution to Dr. Hardy's widow, Mary Hardy, and his four daughters, Mrs. Anne Davis, Mrs. Mary Hobbs of Washington, D. C., Mrs. Millison Cutler Doble of Sausalito, and Mrs. Esther Pomeroy Winterer of Short Hills, New Jersey.
