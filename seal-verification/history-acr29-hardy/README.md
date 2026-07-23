@@ -8,14 +8,16 @@ The official Volume 2 chapters PDF (`59Vol2_Chapters.pdf`, ~143 MB) is a 1999 Pi
 
 This folder contains **page extracts taken directly from that same official clerk.assembly.ca.gov PDF** (printed pp. 5483–5484 / PDF pp. 2461–2462), plus scans of the official **Index** and **Measures** tables (small, loadable official PDFs).
 
-## Authoritative clerk sources (use these in the Golden Trajectory)
+## Golden Trajectory sources (loadable)
 
-| Role | Official URL (loadable) |
-|------|-------------------------|
+| Step | URL |
+|------|-----|
+| Alaska admission year | https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood |
 | Catalog | https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959 |
-| Table of Resolutions (1959) | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol1_Measures.PDF#page=46 |
-| Index entry → p. 5483 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Index.pdf#page=90 |
-| Full Vol. 2 (fragile) | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf#page=2462 |
+| Table of Resolutions (1959) — Ch. 48 = ACR 29 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol1_Measures.PDF#page=46 |
+| Index — Hardy memorial → p. 5483 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Index.pdf#page=90 |
+| Pages 5483–5484 (loadable extract of official Vol. 2) | http://web.archive.org/web/20260723133417/https://raw.githubusercontent.com/princepatel155/PortFolio/cursor/history-acr29-verification-stable-2b13/seal-verification/history-acr29-hardy/statutes-of-california-1959-vol2-printed-pp5483-5484.pdf |
+| Full Vol. 2 (fragile; often fails in browsers) | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf#page=2462 |
 
 ## Files here
 
