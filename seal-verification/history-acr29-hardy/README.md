@@ -1,47 +1,38 @@
 # Statutes of California (1959) — ACR No. 29 / Resolution Chapter 48
 
-Stable open verification package for the History prompt about the Short Hills, New Jersey daughter named in the transmission clause of the Assembly Concurrent Resolution memorializing the San Diego State College president (1910–1935).
+Open verification package for the History prompt (Short Hills, New Jersey daughter in the Hardy memorial transmission clause).
 
-## Stable review entrypoint (use this URL)
+## Why this package exists
 
-Open the HTML viewer on this branch (images are relative; no filename churn):
+The official Volume 2 chapters PDF (`59Vol2_Chapters.pdf`, ~143 MB) is a 1999 PixEdit/Acrobat PDFWriter scan. Many viewers report it as a broken 3-page file even when the download is complete (the file actually contains 2,812 pages). Reviewers therefore cannot reliably open `#page=2462` in a browser.
 
-https://htmlpreview.github.io/?https://github.com/princepatel155/PortFolio/blob/cursor/history-acr29-verification-stable-2b13/seal-verification/history-acr29-hardy/index.html
+This folder contains **page extracts taken directly from that same official clerk.assembly.ca.gov PDF** (printed pp. 5483–5484 / PDF pp. 2461–2462), plus scans of the official **Index** and **Measures** tables (small, loadable official PDFs).
 
-Or browse the folder:
+## Authoritative clerk sources (use these in the Golden Trajectory)
 
-https://github.com/princepatel155/PortFolio/tree/cursor/history-acr29-verification-stable-2b13/seal-verification/history-acr29-hardy
+| Role | Official URL (loadable) |
+|------|-------------------------|
+| Catalog | https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959 |
+| Table of Resolutions (1959) | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol1_Measures.PDF#page=46 |
+| Index entry → p. 5483 | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Index.pdf#page=90 |
+| Full Vol. 2 (fragile) | https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf#page=2462 |
 
-## Source
+## Files here
 
-- **Volume:** Statutes of California, 1959 Regular Session, Volume 2 (resolution chapters)
-- **Chapter / resolution:** Resolution Chapter 48 / Assembly Concurrent Resolution No. 29
-- **Printed pages:** 5483–5484
-- **Official full PDF (large ~143MB; fragile partial downloads look like a broken 3-page PDF):**  
-  https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf#page=2462
-- **Archive landing page:**  
-  https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959
+| File | What it is |
+|------|------------|
+| `index.html` | Local viewer for reviewers |
+| `statutes-of-california-1959-vol2-printed-pp5483-5484.pdf` | Modern 2-page extract from official Vol. 2 (pp. 2461–2462) |
+| `statutes-1959-vol2-printed-p5483.png` / `…-p5484.png` | Page scans from that extract |
+| `statutes-1959-vol2-printed-p5484-clause-detail.png` | Transmission-clause crop |
+| `official-measures-table-resolutions-1959.png` | Scan of official Measures table (Ch. 48 = ACR 29) |
+| `official-index-hardy-entry.png` | Scan of official Index line: Hardy memorial → 5483 |
+| `ACR29_Hardy_1959_pp5483-5484.pdf` | Earlier 2-page extract (same pages) |
 
-## Files (neutral names — no answer string in paths)
-
-| File | Contents |
-|------|----------|
-| `index.html` | Side-by-side viewer for reviewers |
-| `ACR29_Hardy_1959_pp5483-5484.pdf` | 2-page extract |
-| `statutes-1959-vol2-printed-p5483.png` | Full scan of printed p. 5483 |
-| `statutes-1959-vol2-printed-p5484.png` | Full scan of printed p. 5484 |
-| `statutes-1959-vol2-printed-p5484-clause-detail.png` | Crop of the transmission clause |
-
-## Verbatim transmission clause
+## Verbatim transmission clause (printed p. 5484)
 
 > Resolved, That the Chief Clerk of the Assembly be directed to transmit suitably prepared copies of this resolution to Dr. Hardy's widow, Mary Hardy, and his four daughters, Mrs. Anne Davis, Mrs. Mary Hobbs of Washington, D. C., Mrs. Millison Cutler Doble of Sausalito, and Mrs. Esther Pomeroy Winterer of Short Hills, New Jersey.
 
 ## Answer
 
-**Mrs. Esther Pomeroy Winterer** (Short Hills, New Jersey)
-
-## Corroborating open sources (identity / family; not the clause itself)
-
-- Hardy presidency / identity: https://en.wikipedia.org/wiki/Hardy_Memorial_Tower
-- Alaska admission year (volume year hop): https://en.wikipedia.org/wiki/Alaska
-- Named daughter independently attested: Millison Cutler Hardy Doble — https://kappa.historyit.com/list-view.php?id=7583
+**Mrs. Esther Pomeroy Winterer**
