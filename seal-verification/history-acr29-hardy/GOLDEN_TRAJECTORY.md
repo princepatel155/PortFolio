@@ -1,0 +1,18 @@
+Search "Alaska admitted as a state date"
+
+Fetch https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood — Confirm Alaska became a state on January 3, 1959. The Statutes of California volume for that admission calendar year is therefore the 1959 statutes set.
+
+Search "Statutes of California 1959 clerk assembly"
+
+Fetch https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1959 — Locate the Chief Clerk archive page for Statutes and Amendments to the Codes 1959. Note Volume 2 (Regular Session) holds statute chapters 1001–2195 and resolution chapters 1–262.
+
+Fetch https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol1_Measures.PDF#page=46 — Open the official 1959 Measures / Table of Resolutions. Confirm Resolution Chapter 48 is Assembly Concurrent Resolution No. 29 (authors Crawford, Luckel, and Schrade).
+
+Fetch https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Index.pdf#page=90 — Open the official Volume 2 Index. Confirm the Hardy memorial entry points to printed page 5483.
+
+Fetch https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf — Download the official Volume 2 chapters PDF from the California Assembly Office of the Chief Clerk (~143 MB; 2,812 pages). Open PDF page 2461 (printed page 5483): confirm Assembly Concurrent Resolution No. 29 / Resolution Chapter 48, relative to the death of Dr. Edward L. Hardy. Then open PDF page 2462 (printed page 5484): confirm the WHEREAS findings (President of San Diego State College from 1910 to 1935; bachelor of literature, University of Wisconsin; master of arts, University of Chicago; honorary doctor of laws, La Verne College). In the transmission clause on printed page 5484, confirm the daughter identified as residing in Short Hills, New Jersey, is Mrs. Esther Pomeroy Winterer. Filter out the other daughters named without that residence (Mrs. Anne Davis; Mrs. Mary Hobbs of Washington, D. C.; Mrs. Millison Cutler Doble of Sausalito). Record: Mrs. Esther Pomeroy Winterer.
+
+Fetch https://web.archive.org/web/20260723173052id_/https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf — Optional authoritative mirror of the same official Chief Clerk file (Wayback Machine `id_` raw capture of the clerk.assembly.ca.gov PDF, full ~143 MB). Re-open PDF page 2462 / printed page 5484 and reconfirm the Short Hills transmission-clause daughter is Mrs. Esther Pomeroy Winterer.
+
+✅ Final answer
+Mrs. Esther Pomeroy Winterer
