@@ -1,0 +1,5 @@
+SUPERSEDED — Do not resubmit.
+
+Reason: Once ChatGPT opens govinfo/congress.gov Public Law 86-108 §533A, it correctly reads every clause in that short section (duty (9), Personnel Security partial transfer, deputy Classification Act ceiling, salary $19,000). The leaf cannot stump the model.
+
+Replacement Legal stump: seal-verification/legal-fletcher-acr6/ (1959 California ACR transmission/survivors close-read on clerk.assembly.ca.gov).
