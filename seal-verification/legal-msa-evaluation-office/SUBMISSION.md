@@ -1,10 +1,10 @@
-# Legal — MSA 1959 §533A partial ICA office transfer
+# Legal — MSA 1959 §533A deputy pay ceiling
 
 ## Prompt
-In the calendar year when Hawaii was admitted to the Union as a U.S. state, Congress enacted the Mutual Security Act of 1959, establishing in the Department of State an Office of the Inspector General and Comptroller. The creating provision transferred to that officer all functions of one International Cooperation Administration office and only part of the functions of a second ICA office. Name the ICA office whose functions were transferred only in part.
+In the calendar year when Hawaii was admitted to the Union as a U.S. state, Congress established in the Department of State an Office of the Inspector General and Comptroller and also provided for a Deputy Inspector General and Comptroller. The head officer’s salary was fixed at a stated annual dollar rate, but the deputy’s pay was capped by reference to another pay law rather than a dollar figure. What pay ceiling did the statute set for that deputy?
 
 ## Answer
-Office of Personnel Security and Integrity
+the maximum rate provided under the General Schedule of the Classification Act of 1949, as amended
 
 ## Golden Trajectory
 Search "Hawaii admitted as a state date"
@@ -13,14 +13,14 @@ Fetch https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-stateho
 
 Search "Mutual Security Act of 1959 Public Law 86-108 govinfo STATUTE-73"
 
-Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=8 — Open the deep-linked Statutes at Large PDF page where Public Law 86-108 inserts section 533A. In subsection (b), confirm two ICA transfers: (1) all functions, powers, and duties of the Office of Evaluation (full transfer — reject as the answer); and (2) only so much of the functions, powers, and duties of the Office of Personnel Security and Integrity as relate to investigations of improper activities in connection with programs under the International Cooperation Administration (partial transfer). The prompt asks for the ICA office transferred only in part. Record: Office of Personnel Security and Integrity.
+Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=8 — Open the deep-linked Statutes at Large PDF page where Public Law 86-108 inserts section 533A. In subsection (a), confirm the Inspector General and Comptroller’s salary is fixed at the annual rate of $19,000 (head-officer dollar rate — not the ask). Then read the Deputy Inspector General and Comptroller clause: the deputy’s salary “shall not exceed the maximum rate provided under the General Schedule of the Classification Act of 1949, as amended.” Reject nearby decoys: the head’s $19,000 rate, and the separate $20,000 ceiling for an office under Reorganization Plan Numbered 7 of 1953 on the same leaf. Record the deputy’s statutory pay ceiling.
 
-Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=9 — Skim the following duties/expenses page only to confirm no differently named ICA office appears as a transfer source; the partial-transfer office is fixed on the prior page’s subsection (b).
+Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=9 — Confirm the following duties/expenses page does not alter the deputy’s pay ceiling stated in subsection (a).
 
 Fetch https://www.congress.gov/86/statute/STATUTE-73/STATUTE-73-Pg246.pdf — Corroborate the same Public Law 86-108 Statutes at Large text on congress.gov.
 
 ✅ Final answer
-Office of Personnel Security and Integrity
+the maximum rate provided under the General Schedule of the Classification Act of 1949, as amended
 
 ## Verification Sources
 1. https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
