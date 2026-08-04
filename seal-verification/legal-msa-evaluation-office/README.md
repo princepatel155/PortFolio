@@ -1,15 +1,15 @@
-# Legal — MSA 1959 §533A partial ICA transfer
+# Legal — MSA 1959 §533A deputy pay ceiling
 
 ## Why this version
-ChatGPT solved the prior duty-(9) ask after the prompt named the annual program presentation. This version asks which ICA office was transferred only **in part**, without naming either office.
+ChatGPT solved duty (9) and the Personnel Security partial-transfer ask once pointed at §533A. This version asks for the deputy’s **non-dollar** pay ceiling.
 
 ## Failure mode
-- **Office of Evaluation** (full transfer — main decoy)
-- Truncated/wrong names (“Office of Personnel Security”, “Office of Integrity”)
-- Invented ICA audit/security offices
+- Answers the head’s **$19,000**
+- Answers the nearby Reorganization Plan **$20,000** ceiling
+- Invents a period GS maximum dollar rate
 
 ## Answer
-**Office of Personnel Security and Integrity**
+**the maximum rate provided under the General Schedule of the Classification Act of 1949, as amended**
 
 ## Sources
 Eisenhower + govinfo `#page=8` / `#page=9` + congress.gov statute PDF. No archive.org / HathiTrust / Wikipedia.

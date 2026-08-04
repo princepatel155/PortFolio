@@ -1,11 +1,12 @@
-# Checklist — partial ICA office transfer
+# Checklist — deputy pay ceiling
 
 ## GLM / QC
-- Words: ~80  
-- Single named office answer; full vs partial transfer filter  
+- Words: ~85  
+- Answer is statutory ceiling language, not a dollar amount  
 - No HathiTrust / archive.org / Wikipedia  
-- GT↔VS exact URL match; Searches do not leak the office name  
+- GT↔VS exact URL match; Searches do not leak Classification Act / GS ceiling  
 
 ## Expected GPT fails
-- Answers Office of Evaluation (the full transfer)
-- Misses “Personnel … and Integrity” exact title
+- $19,000 (head officer)
+- $20,000 (adjacent Reorganization Plan rate)
+- Invented GS dollar cap
