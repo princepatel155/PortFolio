@@ -1,10 +1,10 @@
-# Legal — MSA 1959 §533A duty on annual program presentation
+# Legal — MSA 1959 §533A partial ICA office transfer
 
 ## Prompt
-In the calendar year when Hawaii was admitted to the Union as a U.S. state, Congress enacted the Mutual Security Act of 1959 (Public Law 86-108), which inserted a new section 533A establishing the Office of the Inspector General and Comptroller in the Department of State. Among the numbered duties assigned to that officer—in addition to duties transferred from existing International Cooperation Administration offices—one duty concerned the annual program presentation to the Congress. According to that duty, what was the Inspector General and Comptroller required to design and to prescribe?
+In the calendar year when Hawaii was admitted to the Union as a U.S. state, Congress enacted the Mutual Security Act of 1959, establishing in the Department of State an Office of the Inspector General and Comptroller. The creating provision transferred to that officer all functions of one International Cooperation Administration office and only part of the functions of a second ICA office. Name the ICA office whose functions were transferred only in part.
 
 ## Answer
-the form and the financial and statistical content of the annual program presentation to the Congress
+Office of Personnel Security and Integrity
 
 ## Golden Trajectory
 Search "Hawaii admitted as a state date"
@@ -13,14 +13,14 @@ Fetch https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-stateho
 
 Search "Mutual Security Act of 1959 Public Law 86-108 govinfo STATUTE-73"
 
-Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=8 — Open the deep-linked Statutes at Large PDF page where Public Law 86-108 inserts section 533A. Confirm the new Office of the Inspector General and Comptroller in the Department of State, and that subsection (b) transfers functions from International Cooperation Administration offices (including the Office of Evaluation).
+Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=8 — Open the deep-linked Statutes at Large PDF page where Public Law 86-108 inserts section 533A. In subsection (b), confirm two ICA transfers: (1) all functions, powers, and duties of the Office of Evaluation (full transfer — reject as the answer); and (2) only so much of the functions, powers, and duties of the Office of Personnel Security and Integrity as relate to investigations of improper activities in connection with programs under the International Cooperation Administration (partial transfer). The prompt asks for the ICA office transferred only in part. Record: Office of Personnel Security and Integrity.
 
-Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=9 — Open the deep-linked PDF page for the numbered duties in subsection (c). Locate the duty concerning the annual program presentation to the Congress. Confirm duty (9) requires: “Designing the form and prescribing the financial and statistical content of the annual program presentation to the Congress.” Reject nearby decoys such as duty (7)’s system of financial and statistical reporting and duty (8)’s advice on fiscal and budgetary aspects of proposed programs. Record the designed/prescribed objects named in duty (9).
+Fetch https://www.govinfo.gov/content/pkg/STATUTE-73/pdf/STATUTE-73-Pg246.pdf#page=9 — Skim the following duties/expenses page only to confirm no differently named ICA office appears as a transfer source; the partial-transfer office is fixed on the prior page’s subsection (b).
 
 Fetch https://www.congress.gov/86/statute/STATUTE-73/STATUTE-73-Pg246.pdf — Corroborate the same Public Law 86-108 Statutes at Large text on congress.gov.
 
 ✅ Final answer
-the form and the financial and statistical content of the annual program presentation to the Congress
+Office of Personnel Security and Integrity
 
 ## Verification Sources
 1. https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood

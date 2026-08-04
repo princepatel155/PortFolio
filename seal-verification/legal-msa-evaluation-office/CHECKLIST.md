@@ -1,13 +1,11 @@
-# Checklist notes — MSA §533A duty (9)
+# Checklist — partial ICA office transfer
 
 ## GLM / QC
-- Words: ~90  
-- Natural multi-hop Legal ask; answer is exact statutory objects from duty (9)  
-- No process instructions; no archive.org / HathiTrust / Wikipedia  
-- Timeless enacted text; facts verified on govinfo PDF p.8–9 and congress.gov mirror  
-- GT↔VS URL exact match; Searches do not leak the answer string  
+- Words: ~80  
+- Single named office answer; full vs partial transfer filter  
+- No HathiTrust / archive.org / Wikipedia  
+- GT↔VS exact URL match; Searches do not leak the office name  
 
-## GPT failure expectations
-- May answer duty (7)’s “system of financial and statistical reporting”  
-- May stop after salary `$19,000` or Office of Evaluation transfer  
-- May invent a vague “format of the foreign-aid request” paraphrase missing “financial and statistical content”
+## Expected GPT fails
+- Answers Office of Evaluation (the full transfer)
+- Misses “Personnel … and Integrity” exact title

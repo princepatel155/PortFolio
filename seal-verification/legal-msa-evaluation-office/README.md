@@ -1,18 +1,15 @@
-# Legal — MSA 1959 §533A annual-program-presentation duty
+# Legal — MSA 1959 §533A partial ICA transfer
 
-## Why rewritten
-QC rejected HathiTrust Bulletin links for the prior “August 5 announcement” ask. The Bulletin note is not available on allowed hosts, so the task was moved onto enacted §533A text on govinfo / congress.gov.
+## Why this version
+ChatGPT solved the prior duty-(9) ask after the prompt named the annual program presentation. This version asks which ICA office was transferred only **in part**, without naming either office.
 
-## Failure mode this targets
-Easy nearby answers GPT may prefer:
-- duty (7): system of financial and statistical **reporting**
-- duty (8): fiscal and budgetary aspects of proposed programs
-- salary `$19,000` / Office of Evaluation transfer (earlier solved)
-
-Correct ask: duty (9) objects designed/prescribed for the annual program presentation to the Congress.
+## Failure mode
+- **Office of Evaluation** (full transfer — main decoy)
+- Truncated/wrong names (“Office of Personnel Security”, “Office of Integrity”)
+- Invented ICA audit/security offices
 
 ## Answer
-**the form and the financial and statistical content of the annual program presentation to the Congress**
+**Office of Personnel Security and Integrity**
 
 ## Sources
-Eisenhower (Hawaii year) + govinfo PDF `#page=8` / `#page=9` + congress.gov statute PDF + uscode.ecfr.io PL 86-108 mirror. No archive.org / HathiTrust / Wikipedia.
+Eisenhower + govinfo `#page=8` / `#page=9` + congress.gov statute PDF. No archive.org / HathiTrust / Wikipedia.
