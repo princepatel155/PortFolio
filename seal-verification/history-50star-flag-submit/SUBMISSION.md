@@ -1,27 +1,27 @@
-# History — GSA representative named in Sept. 5, 1958 Adams memo
+# History — Merriam Alaska proclamation timing (after November 25th)
 
 ## Prompt
-Among the Eisenhower Presidential Library online documents on the design of the 49- and 50-star flags is a September 5, 1958 memorandum for Governor Adams regarding the procedure for flag modification. That memorandum suggested forming an advisory group exclusively of Administration officials and listed appropriate membership by department. Who was named as the suggested representative for GSA?
+Among the Eisenhower Presidential Library online documents on the design of the 49- and 50-star flags is a November 19, 1958 memorandum of conference with the President concerning flag design. In that memorandum, Mr. Merriam pointed out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State. According to Merriam's remark as recorded there, that proclamation would be sometime after which date?
 
 ## Answer
-Mr. Floete
+November 25th
 
 ## Golden Trajectory
 Search "Eisenhower Library design 49 and 50 star flags"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
-Overview page for the flag-design documents. The narrative covers later committee work by State, Defense, Treasury, and Fine Arts. It does not name a GSA representative. In the document list, open the September 5, 1958 memorandum for Governor Adams regarding the procedure for flag modification.
+Overview page for the flag-design documents. It notes Alaska-related flag work and later Executive Order timing, but it does not quote Merriam's November 19 remark about when the Alaska proclamation would occur. In the document list, open the November 19, 1958 memorandum of conference regarding flag design.
 
-Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-09-05.pdf
-Read the September 5, 1958 memorandum. It proposes forming the group exclusively of Administration officials and lists appropriate membership: Defense - Murray Snyder; State - Secretary Herter; Interior - Secretary Seaton; Fine Arts - Mr. Finley; Veterans - Mr. Whittier; GSA - Mr. Floete. The prompt asks only who was named for GSA. Record Mr. Floete. Do not substitute later committee members from the overview page.
+Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-11-19.pdf
+Read the November 19, 1958 Cabinet Room memorandum. On the second page, Mr. Merriam points out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th. Record November 25th. Do not substitute Alaska's later admission date of January 3, 1959, or other flag-ceremony dates from the overview page.
 
-Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-10-16.pdf
-Supporting October 16, 1958 press release announcing the informal group the White House actually used (State, Defense, Treasury, and Fine Arts). That later group does not include GSA and does not name Mr. Floete, which confirms the September 5 list is a distinct earlier proposal.
+Fetch https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood
+Supporting Alaska statehood timeline page. Useful for recognizing January 3, 1959 as the admission date decoy, not the Merriam proclamation-timing remark in the November 19 memo.
 
 Final answer
-Mr. Floete
+November 25th
 
 ## Verification Sources
 1. https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
-2. https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-09-05.pdf
-3. https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-10-16.pdf
+2. https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-11-19.pdf
+3. https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood

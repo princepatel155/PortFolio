@@ -1,14 +1,14 @@
-# Checklist — Mr. Floete / GSA
+# Checklist — November 25th Merriam remark
 
 ## GLM / QC
-- Words: ~70
-- Decisive fact is on a small official scanned PDF (~5 MB), not a 143 MB statutes dump
-- Overview page is a decoy (later committee; no GSA)
+- Words: ~75
+- Decisive fact on page 2 of a small official scanned PDF (~3.6 MB)
+- World-knowledge decoy: January 3, 1959
 - GT↔VS exact URL match
-- Plain answer text: Mr. Floete
+- Plain answer: November 25th
 
 ## Expected GPT fails
-- David Finley / Mr. Finley (Fine Arts on same list, and on the final committee)
-- Murray Snyder / Herter / Seaton (other names on the same memo)
-- Omits GSA and answers from the October 16 press-release committee
-- Invents a different GSA administrator
+- January 3, 1959 (Alaska admission)
+- July 4, 1959 (49-star Fort McHenry ceremony)
+- December 30, 1958 (committee submission)
+- January 3, 1959 Executive Order date conflation
