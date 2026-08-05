@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT. Expected fail modes: naming Jack McMillan (VP promotion), David G. Jewett (former cashier / Huron AVP), or J. Virgil Lowe (retiring chairman/CEO) instead of John V. Krastins.)
