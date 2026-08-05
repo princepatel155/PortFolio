@@ -7,7 +7,7 @@ Fetch https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-B
 Printed page 2 introduces VIDEO ARCADE / COLOR TELE-GAMES, confirming this is the Wish Book that launched the cartridge system.
 
 Fetch https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-Book/5
-Printed page 5, Tele-Games electronic games. Motocross Sports is in the upper listing; below it, Tank® “Battlefield fun for 2 players,” catalog 6 C 99728. CONSOLE line: 8 1/2 × 12 × 2 1/4-inches. Filter out same-page Motocross console size 9 1/2 × 15 × 5 inches, Tank cash price 58.95 dollars, and Tank shipping weight 4 pounds 8 ounces. Record: 8 1/2 x 12 x 2 1/4 inches.
+Printed page 5, Tele-Games electronic games. Locate Tank® “Battlefield fun for 2 players,” with two joystick controls with firing buttons, catalog 6 C 99728. CONSOLE line: 8 1/2 × 12 × 2 1/4-inches. Filter out same-page Motocross Sports console size 9 1/2 × 15 × 5 inches, Tank cash price 58.95 dollars, and Tank shipping weight 4 pounds 8 ounces. Record: 8 1/2 x 12 x 2 1/4 inches.
 
 Final answer
 8 1/2 x 12 x 2 1/4 inches

@@ -1,7 +1,7 @@
 # Paste-ready Seal fields
 
 ## Write the Prompt
-In the Sears Christmas Wish Book that introduced the Tele-Games Video Arcade cartridge system, look on the same Tele-Games electronic-games page that also advertises the Motocross Sports console. What length-by-width-by-height console size in inches is listed for the Tank unit that is called battlefield fun for 2 players, includes two joystick controls with firing buttons whose cords store on the console, uses a black-and-white playfield on all TV sets, and is sold under a Sears catalog number in the 6 C 997 series?
+Among the dedicated Tele-Games electronic video-game consoles in the Sears Christmas Wish Book that introduced the Tele-Games Video Arcade cartridge system, what length-by-width-by-height console size in inches is listed for the Tank unit described as battlefield fun for 2 players, with two joystick controls that have firing buttons and cords that store on the console, a black-and-white playfield on all TV sets, and a Sears catalog number in the 6 C 997 series?
 
 ## Write the Answer
 8 1/2 x 12 x 2 1/4 inches
@@ -16,7 +16,7 @@ Fetch https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-B
 Printed page 2 introduces VIDEO ARCADE / COLOR TELE-GAMES, confirming this is the Wish Book that launched the cartridge system.
 
 Fetch https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-Book/5
-Printed page 5, Tele-Games electronic games. Motocross Sports is in the upper listing; below it, Tank® “Battlefield fun for 2 players,” catalog 6 C 99728. CONSOLE line: 8 1/2 × 12 × 2 1/4-inches. Filter out same-page Motocross console size 9 1/2 × 15 × 5 inches, Tank cash price 58.95 dollars, and Tank shipping weight 4 pounds 8 ounces. Record: 8 1/2 x 12 x 2 1/4 inches.
+Printed page 5, Tele-Games electronic games. Locate Tank® “Battlefield fun for 2 players,” with two joystick controls with firing buttons, catalog 6 C 99728. CONSOLE line: 8 1/2 × 12 × 2 1/4-inches. Filter out same-page Motocross Sports console size 9 1/2 × 15 × 5 inches, Tank cash price 58.95 dollars, and Tank shipping weight 4 pounds 8 ounces. Record: 8 1/2 x 12 x 2 1/4 inches.
 
 Final answer
 8 1/2 x 12 x 2 1/4 inches

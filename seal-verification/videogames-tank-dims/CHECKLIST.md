@@ -2,7 +2,8 @@
 
 ## Seal prompt acceptance
 - [x] 70–150 words (83)
-- [x] Natural language; one verifiable answer
+- [x] Natural language; one verifiable answer (73 words)
+- [x] No named page-navigation command in prompt
 - [x] No Wikipedia / archive.org / WishbookWeb
 
 ## Process / sources
