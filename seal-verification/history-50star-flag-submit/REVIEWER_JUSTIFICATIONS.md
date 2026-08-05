@@ -9,5 +9,5 @@ The September 5 memo names Mr. Floete for GSA, but Floete was the sitting GSA Ad
 ## Why this ask is harder
 The November 19, 1958 conference memo records Merriam saying the Alaska proclamation would be sometime after November 25th. That date is not in the overview narrative and is easy to overwrite with the better-known admission date January 3, 1959.
 
-## Failure justification (if ChatGPT answers January 3, 1959)
-The model reported Alaska's admission date instead of the date in Merriam's November 19, 1958 remark. In the Cabinet Room memorandum of conference, Merriam said an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th. January 3, 1959 is the later admission date, not the answer to this ask.
+## ChatGPT failure justification (confirmed stump)
+The model failed to report the date from Merriam's remark in the November 19, 1958 Cabinet Room memorandum of conference in the Eisenhower Presidential Library flag-design collection. In that memorandum, Merriam pointed out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th. The correct answer is November 25th. Substituting Alaska's later admission date of January 3, 1959, or another flag-timeline date from secondary summaries, does not answer this ask.
