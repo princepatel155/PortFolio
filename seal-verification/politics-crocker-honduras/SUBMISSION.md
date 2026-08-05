@@ -1,3 +1,12 @@
+# Politics — Carson O. Crocker (USOM Honduras dual capacity)
+
+## Prompt
+Five weeks after Hawaii entered the Union, the U.S. Ambassador in Honduras dated a Tegucigalpa despatch to C. Douglas Dillon analyzing Mutual Security and related programs. Who held the dual capacity of Director of the U.S. Operations Mission and Counselor of Embassy for Economic Affairs on the Country Team described in that despatch?
+
+## Answer
+Carson O. Crocker
+
+## Golden Trajectory
 Search "Hawaii admitted as a state date Eisenhower Library"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
@@ -19,3 +28,10 @@ Confirm Newbegin was Ambassador to Honduras (credentials April 21, 1958; left po
 
 Final answer
 Carson O. Crocker
+
+## Verification Sources
+1. https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
+2. https://history.state.gov/historicaldocuments/frus1958-60v05mSupp/ch11
+3. https://history.state.gov/historicaldocuments/frus1958-60v05mSupp/ho_d10
+4. https://history.state.gov/historicaldocuments/frus1958-60v05mSupp/persons
+5. https://history.state.gov/departmenthistory/people/newbegin-robert

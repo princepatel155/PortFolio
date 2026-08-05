@@ -1,0 +1,9 @@
+SUPERSEDED — HathiTrust QC ban (V_URL_C).
+
+The Department of State Bulletin Aug 17, 1959 Castleman / USOM Surinam
+ask cannot be verified without hathitrust.org / babel.hathitrust.org.
+
+Replacement Politics package:
+seal-verification/politics-crocker-honduras/
+
+Answer: Carson O. Crocker
