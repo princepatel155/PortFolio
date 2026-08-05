@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT. Expected fail modes: charge accounts 4525; single-payment loans 4050; noninstalment total 11451; September service credit 2914; or inventing a nearby million figure.)
