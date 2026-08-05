@@ -1,0 +1,3 @@
+SUPERSEDED — Do not resubmit.
+
+Same blocker as history-acr29-hardy: decisive text is only in the ~143 MB Vol. 2 statutes PDF. Use seal-verification/history-50star-flag-submit/ instead.

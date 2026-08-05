@@ -1,0 +1,6 @@
+SUPERSEDED — Do not resubmit.
+
+Reason: QC requires an accessible official source. The Hardy ACR answer lives only in Statutes of California 1959 Vol. 2 (about 143 MB / 2,812 pages). Even #page= deep links still depend on that massive scan, which reviewers cannot reliably open.
+
+Replacement History package: seal-verification/history-50star-flag-submit/
+(Eisenhower Library HTML on the 49-/50-star flag design process; no giant PDF.)
