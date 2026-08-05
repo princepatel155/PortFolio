@@ -1,18 +1,15 @@
-# History — 50-star flag committee submission date
+# History — first official raising of the 50-star flag
 
-## Why this replaces Hardy ACR 29
-Hardy depends on Statutes of California 1959 Vol. 2 (~143 MB). Reviewers cannot reliably open that file even with #page= deep links.
-
-This History ask uses only light Eisenhower Library HTML pages.
+## Why rewritten
+ChatGPT solved the prior ask (committee submission date August 17, 1959). This version asks for the Fort McHenry first-raising date of the fifty-star flag.
 
 ## Answer
-**August 17, 1959**
+**July 4, 1960**
 
 ## Main decoys
+- July 4, 1959 (49-star first raising)
+- August 17, 1959 (committee submission)
 - August 21, 1959 (EO 10834 / Hawaii admission)
-- December 30, 1958 (49-star designs submitted)
-- January 3, 1959 (EO 10798 / Alaska admission)
-- July 4, 1960 (first raising of the 50-star flag)
 
 ## Sources
-Eisenhower alaska-statehood + design-49-and-50-star-flags + hawaii-statehood. No archive.org / HathiTrust / Wikipedia / giant statutes PDF.
+Eisenhower alaska-statehood + design-49-and-50-star-flags + hawaii-statehood. No archive.org / HathiTrust / Wikipedia / giant PDF.
