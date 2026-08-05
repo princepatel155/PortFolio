@@ -1,13 +1,15 @@
-# Reviewer notes — why earlier flag asks were burned
+# Reviewer reply — Neeraj (Jul 24): 143 MB PDF / Winterer task withdrawn
 
-## Park Street Church
-Named in the Library document title. ChatGPT found it immediately.
+## Justification — Critical verification depends on manually opening a ~143 MB PDF
 
-## Mr. Floete / GSA
-The September 5 memo names Mr. Floete for GSA, but Floete was the sitting GSA Administrator. ChatGPT answered from officeholder knowledge (even expanding to Franklin G. Floete). Agency-head asks are burned.
+**Reviewer suggestion:**  
+The Golden Trajectory's critical verification depends on manually opening and navigating a ~143 MB, 2,812-page PDF, which have already reported is difficult or impossible to reliably load and inspect. As a result, the final answer ("Mrs. Esther Pomeroy Winterer") cannot be independently reproduced from an accessible authoritative source by following the documented steps. The trajectory should instead cite an official source that directly exposes the relevant resolution or transmission clause in an accessible format, rather than relying on manual navigation within a massive scanned PDF.
 
-## Why this ask is harder
-The November 19, 1958 conference memo records Merriam saying the Alaska proclamation would be sometime after November 25th. That date is not in the overview narrative and is easy to overwrite with the better-known admission date January 3, 1959.
+**Change made:**  
+The Hardy ACR / Mrs. Esther Pomeroy Winterer History task is withdrawn. Deep links into `59Vol2_Chapters.pdf` still require that same ~143 MB, 2,812-page scan to load, so they do not meet the accessibility requirement.
 
-## ChatGPT failure justification (confirmed stump)
-The model failed to report the date from Merriam's remark in the November 19, 1958 Cabinet Room memorandum of conference in the Eisenhower Presidential Library flag-design collection. In that memorandum, Merriam pointed out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th. The correct answer is November 25th. Substituting Alaska's later admission date of January 3, 1959, or another flag-timeline date from secondary summaries, does not answer this ask.
+**Replacement History task (this package):**  
+Ask for the date in Merriam's remark from the Eisenhower Presidential Library November 19, 1958 memorandum of conference on flag design (`1958-11-19.pdf`). Answer: **November 25th**.
+
+**Why this fixes it:**  
+Critical verification no longer depends on Statutes of California Vol. 2. Every Verification Source is an Eisenhower Library HTML page or a small official scan (~3.6 MB, two pages). The decisive sentence is quoted in the Golden Trajectory and Verification Sources, so a reviewer can reproduce the answer without opening a massive unread PDF.
