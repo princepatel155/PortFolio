@@ -1,20 +1,19 @@
 # Reviewer Justifications — Shopping / 1959 Ward Chiltonware
 
-## Reply — Major (Sujal): image-only Muse page / no Ctrl+F text layer
+## Reply 1 — Major (Sujal): answer source is scanned image / no usable text layer
 
-**Suggestion:** The catalog page is a scanned image with no usable text layer, so the price cannot be highlighted or found with Ctrl+F. Since the answer is only readable visually and no searchable version exists, the source is not compliant. The 3rd source (`ShowCatalogPage/.../350`) is a scanned image with no usable text layer.
+**Suggestion:** The answer source does not meet the requirements. The catalog page is a scanned image with no usable text layer, so the price cannot be highlighted or found with Ctrl+F. Since the answer is only readable visually and no searchable version exists, the source is not compliant for this task.
 
-**Change made:**
-1. **Removed the image-only ShowCatalogPage URL from GT/VS** as the decisive answer source.
-2. **Replaced it with Muse’s Catalogs.Api page payload** for the same catalog page 350:
-   `…/202510/Catalogs.Api/api/CatalogPageByCatalogNameAndCatalogPageNumber?strCatalogName=1959-Montgomery-Ward-Christmas-Book&strCatalogPageNumber=350`
-   That endpoint returns `application/json` with a plain-text `pageOCRWords` field containing the Chiltonware listing and cash price (`48 T 4767` … `21-Pc. Set 2.77`). The text is selectable and findable in the browser (usable text layer), addressing the no-Ctrl+F / no-highlight objection.
-3. Kept the Muse `ShowCatalog` URL only as a catalog-title locator, not as the price extract.
-4. Kept Eisenhower Hawaii statehood for the calendar hop.
-5. Answer remains plain **2.77 dollars** (not `$2.77`).
+**Reply / change made:**
+Agreed. The prior decisive source was Muse’s image viewer (`ShowCatalogPage/.../350`), which is a scan with no usable text layer. That URL has been removed as the answer source. GT/VS now use Muse’s Catalogs.Api JSON for the same catalog page 350:
 
-## Why not archive.org
-Internet Archive hosts a searchable text PDF of this catalog, but archive.org / Wayback are banned for GT/VS. No Google Books volume with this catalog was available to substitute.
+`https://christmas.musetechnical.com/202510/Catalogs.Api/api/CatalogPageByCatalogNameAndCatalogPageNumber?strCatalogName=1959-Montgomery-Ward-Christmas-Book&strCatalogPageNumber=350`
 
-## Why this price is inventable
-Confirmed ChatGPT fail: invented **5.98 dollars** while citing only the Muse catalog root, without reading the Chiltonware listing priced at **2.77 dollars**.
+That endpoint returns `application/json` with a plain-text `pageOCRWords` field. The Chiltonware cash price is findable/highlightable there as: `48 T 4767-Ship. wt. 1 lb .... .. 21-Pc. Set 2.77`. Answer remains **2.77 dollars**. Eisenhower Hawaii statehood and the Muse catalog root are kept only for the year/catalog hop, not as the price extract.
+
+## Reply 2 — Major (Sujal): 3rd source is scanned image / no Ctrl+F
+
+**Suggestion:** 3rd source is a scanned image with no usable text layer, so the price cannot be highlighted or found with Ctrl+F.
+
+**Reply / change made:**
+Agreed. The 3rd VS URL was the image-only `ShowCatalogPage/.../350` viewer and has been replaced. The new 3rd source is the Muse Catalogs.Api page payload above (`application/json`), whose `pageOCRWords` text layer contains the selectable listing for catalog `48 T 4767` / `21-Pc. Set 2.77`. GT ↔ VS still match exactly on the three URLs; no archive.org / HathiTrust / Wikipedia sources were added.
