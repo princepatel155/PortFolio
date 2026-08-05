@@ -4,7 +4,8 @@
 In the Christmas catalog Sears, Roebuck and Co. published in the calendar year Hawaii was admitted as a U.S. state, among the children’s cap-gun and play-weapons pages, what cash price is listed for the Western-style Gun Rack—advertised as teaching neatness—that is made of stained pine with a burned-in western design, has eight hooks for four rifles and three pegs for hats or pistols, measures about 20 inches wide and 20½ inches high, and is sold partly assembled under a Sears catalog number in the 79 N series?
 
 ## Answer
-$3.39
+3.39 dollars
+
 
 ## Golden Trajectory
 Search "Hawaii statehood date Eisenhower"
