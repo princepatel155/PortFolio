@@ -38,3 +38,6 @@ Mrs. Vernon C. Hawk
 Decisive quote (printed Vol. 2, Ch. 18 / ACR No. 6, p. 5392 survivors enumeration):
 
 “she leaves her sons, Ed Fletcher, Jr., Charles, Willis, Stephen, Ferdinand, and Col. Eugene Fletcher, U.S.A.F., ret., all of San Diego, and Lawrence Fletcher of Piedmont, California; her daughters, Mrs. B. H. Taylor and Mrs. H. Pitts Mack of San Diego, and Mrs. Vernon C. Hawk of Lockport, New York; 30 grandchildren; 21 great grandchildren; and a brother, Eugene Batchelder, who also lives in San Diego”
+
+## Response Failure Justification
+ChatGPT names Mrs. Robert E. Gibbons as the Lockport, New York daughter in the 1959 California Assembly Concurrent Resolution memorializing the San Diego widow cited as State Mother of California in 1949. That name does not appear in the resolution. Statutes of California 1959 Vol. 2, Resolution Chapter 18 / ACR No. 6 (Mrs. Ed. Fletcher), printed p. 5392, lists the Lockport daughter as Mrs. Vernon C. Hawk; the other daughters named in the same survivors clause are Mrs. B. H. Taylor and Mrs. H. Pitts Mack of San Diego. The model therefore invents a daughter who is not in the official survivors enumeration.
