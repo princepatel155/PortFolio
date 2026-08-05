@@ -17,4 +17,4 @@
 - [x] Does not reuse Motocross 83.95 or shipping-weight 6 pounds 5 ounces
 
 ## Confirmed ChatGPT fail
-- [x] Invented 14 x 9 1/4 x 3 3/4 inches (cited archive.org; IA OCR garble `14x914x3%4`)
+- [x] Invented 14 1/2 x 9 x 4 inches (cited Atari Compendium manual PDF; not the Wish Book CONSOLE line)

@@ -28,4 +28,4 @@ Decisive detail (1977 Sears Christmas Book, page 2):
 Tele-Games Video Arcade CONSOLE — 14 x 9 1/2 x 3 3/4 in. high
 
 ## Failure justification
-ChatGPT names 14 x 9 1/4 x 3 3/4 inches high as the length-by-width-by-height console size for the Sears Tele-Games Video Arcade, citing archive.org. On printed page 2 of the 1977 Sears Christmas Book, that unit (Target Fun included; two joysticks and two paddle controls; catalog 6 C 99743) lists 14 x 9 1/2 x 3 3/4 in. high. Internet Archive OCR garbles the line as 14x914x3%4, and the model invents 9 1/4 instead of the printed 9 1/2. The correct answer is 14 x 9 1/2 x 3 3/4 inches.
+ChatGPT names 14 1/2 x 9 x 4 inches as the length-by-width-by-height console size for the Sears Tele-Games Video Arcade, citing an Atari Compendium owner’s-manual PDF rather than the Wish Book listing. On printed page 2 of the 1977 Sears Christmas Book, that unit (Target Fun included; two joysticks and two paddle controls; catalog 6 C 99743) lists 14 x 9 1/2 x 3 3/4 in. high. The model therefore substitutes a secondary manual figure for the asked catalog size. The correct answer is 14 x 9 1/2 x 3 3/4 inches.
