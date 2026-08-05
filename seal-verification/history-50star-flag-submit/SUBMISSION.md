@@ -10,13 +10,17 @@ November 25th
 Search "Eisenhower Library design 49 and 50 star flags"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
-Overview page for the flag-design documents. It notes Alaska-related flag work and later Executive Order timing, but it does not quote Merriam's November 19 remark about when the Alaska proclamation would occur. In the document list, open the November 19, 1958 memorandum of conference regarding flag design.
+Overview page for the flag-design collection. It summarizes the November 19, 1958 Cabinet meeting and later notes that Executive Order 10798 issued on January 3, 1959, but it does not quote Merriam's remark about when the Alaska proclamation would occur. In the document list, open "Memo of conference regarding flag design, 11/19/1958".
 
 Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-11-19.pdf
-Read the November 19, 1958 Cabinet Room memorandum. On the second page, Mr. Merriam points out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th. Record November 25th. Do not substitute Alaska's later admission date of January 3, 1959, or other flag-ceremony dates from the overview page.
+Read the November 19, 1958 Cabinet Room memorandum of conference (about 3.6 MB official scan; two pages). On page 2, Merriam's remark is recorded as:
+
+"Mr. Merriam pointed out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th."
+
+Record November 25th. Do not substitute January 3, 1959 (admission / EO 10798 date from the overview), and do not invent a nearby date such as January 2, 1959.
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood
-Supporting Alaska statehood timeline page. Useful for recognizing January 3, 1959 as the admission date decoy, not the Merriam proclamation-timing remark in the November 19 memo.
+Supporting Alaska statehood page. It states that on January 3, 1959 Eisenhower signed the official proclamation admitting Alaska as the 49th state. Use that only as the admission-date decoy. It is not Merriam's November 19 timing remark.
 
 Final answer
 November 25th
@@ -25,3 +29,6 @@ November 25th
 1. https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
 2. https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-11-19.pdf
 3. https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood
+
+Decisive quote (1958-11-19.pdf, page 2):
+"Mr. Merriam pointed out that an Executive Order could not be issued until after the President's proclamation of Alaska as a State, which would be sometime after November 25th."
