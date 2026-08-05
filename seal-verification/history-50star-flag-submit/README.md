@@ -1,15 +1,15 @@
-# History — first official raising of the 50-star flag
+# History — Park Street Church denied first 50-star display
 
 ## Why rewritten
-ChatGPT solved the prior ask (committee submission date August 17, 1959). This version asks for the Fort McHenry first-raising date of the fifty-star flag.
+ChatGPT solved the HTML-page dates (August 17, 1959 submission; July 4, 1960 Fort McHenry raising). This version requires the June 3, 1960 Merriam letter PDF.
 
 ## Answer
-**July 4, 1960**
+**Park Street Church**
 
 ## Main decoys
-- July 4, 1959 (49-star first raising)
-- August 17, 1959 (committee submission)
-- August 21, 1959 (EO 10834 / Hawaii admission)
+- Old North Church / other famous Boston churches
+- Fort McHenry (the chosen site, not the denied request)
+- Reverend J. Murray Marshall (the requester, not the church)
 
 ## Sources
-Eisenhower alaska-statehood + design-49-and-50-star-flags + hawaii-statehood. No archive.org / HathiTrust / Wikipedia / giant PDF.
+Eisenhower hawaii-statehood + flag design index page + 1960-06-03.pdf (~1.5 MB). No archive.org / HathiTrust / Wikipedia / 143 MB statutes PDF.
