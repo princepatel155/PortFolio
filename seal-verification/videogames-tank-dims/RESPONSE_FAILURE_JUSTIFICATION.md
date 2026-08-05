@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT. Expected fail modes: Motocross same-page size 9 1/2 x 15 x 5 inches; inventing a near-miss dimension string; answering Tank price 58.95 dollars or ship weight 4 pounds 8 ounces instead of console size.)
