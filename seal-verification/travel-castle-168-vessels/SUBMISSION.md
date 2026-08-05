@@ -1,0 +1,7 @@
+# Travel — Castle 168 vessels (first 3½ days)
+
+## Prompt
+On the Eisenhower Presidential Library’s St. Lawrence Seaway online-documents page, open Lewis G. Castle’s May 1, 1959 letter to the President enclosing a copy of the first Seaway tolls invoice. In that letter, how many vessels does Castle say were transited through the Seaway during the first three and one-half days beginning April 25 after official opening?
+
+## Answer
+168 vessels

@@ -1,7 +1,5 @@
-# Response Failure Justification (draft — confirm live invent)
+# Response Failure Justification
 
-**Assumed invent:** 10:55 a.m. (page-2 outline) or about 2:00 p.m. (Eisenhower Lock arrival in Canadian plans) — confirm live.
+**Status:** N/A — ChatGPT solved.
 
-**Why it fails:** The prompt pins the Saturday, June 27 afternoon clock schedule whose first line is the Snell Lock observe-lift arrival at **2:20 p.m.**
-
-**Correct extract:** PDF page 3 — “2:20 p.m. President and Mrs. Eisenhower arrive at Snell Lock (Observe lift).”
+Model answered **2:20 p.m.** for the Snell Lock arrival, citing the Conger-to-Stephens draft working program (`1958-11-19-conger-to-stephens.pdf`) which carries the same Saturday June 27 clock block (with “Observe 7-minute lift”).
