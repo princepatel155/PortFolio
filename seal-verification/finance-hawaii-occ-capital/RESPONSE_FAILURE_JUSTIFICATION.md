@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT. Expected fail modes: reporting a capital-component cell such as common stock 6,000,000 or surplus 9,000,000; reporting total assets or total deposits; or returning the unscaled table figure 19,729 without ×1,000.)
