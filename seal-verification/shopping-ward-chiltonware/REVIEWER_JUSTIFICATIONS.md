@@ -1,16 +1,20 @@
 # Reviewer Justifications — Shopping / 1959 Ward Chiltonware
 
-## Why not Sears again
-The prior Shopping package already used the 1959 Sears Christmas Book (Western Gun Rack). This stump switches to the 1959 Montgomery Ward Christmas Book on the same Hawaii calendar hop, so the retailer, catalog, and item are new.
+## Reply — Major (Sujal): image-only Muse page / no Ctrl+F text layer
+
+**Suggestion:** The catalog page is a scanned image with no usable text layer, so the price cannot be highlighted or found with Ctrl+F. Since the answer is only readable visually and no searchable version exists, the source is not compliant. The 3rd source (`ShowCatalogPage/.../350`) is a scanned image with no usable text layer.
+
+**Change made:**
+1. **Removed the image-only ShowCatalogPage URL from GT/VS** as the decisive answer source.
+2. **Replaced it with Muse’s Catalogs.Api page payload** for the same catalog page 350:
+   `…/202510/Catalogs.Api/api/CatalogPageByCatalogNameAndCatalogPageNumber?strCatalogName=1959-Montgomery-Ward-Christmas-Book&strCatalogPageNumber=350`
+   That endpoint returns `application/json` with a plain-text `pageOCRWords` field containing the Chiltonware listing and cash price (`48 T 4767` … `21-Pc. Set 2.77`). The text is selectable and findable in the browser (usable text layer), addressing the no-Ctrl+F / no-highlight objection.
+3. Kept the Muse `ShowCatalog` URL only as a catalog-title locator, not as the price extract.
+4. Kept Eisenhower Hawaii statehood for the calendar hop.
+5. Answer remains plain **2.77 dollars** (not `$2.77`).
+
+## Why not archive.org
+Internet Archive hosts a searchable text PDF of this catalog, but archive.org / Wayback are banned for GT/VS. No Google Books volume with this catalog was available to substitute.
 
 ## Why this price is inventable
-Same Muse page has several nearby children’s cook/bake prices (4.79, 3.98, 2.79, 1.92 dollars, plus combination prices). Confirmed ChatGPT fail: invented 5.98 dollars while citing only the Muse catalog root, without reading the Chiltonware listing priced at 2.77 dollars.
-
-## Muse page number vs printed footer
-Muse Technical serves this scan as page 350 (`ShowCatalogPage/.../350`; image `0350.JPG`). The printed page footer on that scan reads 346. GT/VS use the working Muse URL (`.../350`), and the trajectory notes the printed footer so reviewers are not confused by the offset.
-
-## Banned sources
-GT/VS use only Eisenhower Library + Muse Technical. No Wikipedia, archive.org, or WishbookWeb in the trajectory or verification sources.
-
-## Prompt length / grammar fix
-Rewrote the relative-clause stack (“that is described as …, includes …, has …”) into a cleaner “available only at Wards, including …” form and trimmed to ~84 words (Seal recommended 70–150).
+Confirmed ChatGPT fail: invented **5.98 dollars** while citing only the Muse catalog root, without reading the Chiltonware listing priced at **2.77 dollars**.
