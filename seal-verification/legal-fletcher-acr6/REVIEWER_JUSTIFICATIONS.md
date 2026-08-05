@@ -6,7 +6,7 @@
 
 **Suggestion:** The URLs provided from step 3 to step 5 are not accessible. Also, in step 3 state the search terms (e.g. "State Mother") needed to navigate and locate the correct section within the document.
 
-**Change made:** Steps 3–5 (and matching Verification Sources) initially used clean Chief Clerk PDF URLs with ordinary underscores (`59Vol1_Measures.PDF`, `59Vol2_Chapters.pdf`) and `#page=` deep links. That accessibility fix is retained for the surviving Vol. 2 corroboration URL; the Measures-table search path was later removed (see Reply 3).
+**Change made:** Clean Chief Clerk PDF URLs with ordinary underscores were restored for accessibility. The Measures-table search path was later removed (see Reply 3 / Reply 4).
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Suggestion:** URLs in steps 3, 4, and 5 are not working.
 
-**Change made:** The broken links were caused by Markdown/LaTeX-escaped underscores in the PDF filenames (`59Vol1\_Measures.PDF` and `59Vol2\_Chapters.pdf`), which return HTTP 404 on clerk.assembly.ca.gov. Those escapes are removed. The surviving Chief Clerk corroboration URL uses an ordinary underscore and returns HTTP 200:
+**Change made:** Broken links were caused by Markdown/LaTeX-escaped underscores in PDF filenames. Escapes removed. The surviving Chief Clerk corroboration URL returns HTTP 200:
 
 `https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1959/59Vol2_Chapters.pdf#page=2370`
 
@@ -26,11 +26,15 @@
 
 **Change made:**
 1. Removed the Chief Clerk `59Vol1_Measures.PDF` Table of Resolutions step and all Ctrl+F / in-PDF keyword-search instructions against that image-only scan.
-2. Added the searchable HathiTrust full-view OCR of the official *Statutes of California* 1959 v.2 (University of Minnesota; htid `umn.31951d02287782u`), reached via catalog Record `010587406`.
-3. Identification of ACR No. 6 is now done with the HathiTrust OCR query  
-   `q1="Assembly Concurrent Resolution No. 6"`  
-   which lands on Chapter 18 / ACR No. 6 relative to the death of Mrs. Ed. Fletcher and includes the 1949 State Mother / Waverley findings in the same OCR text.
-4. Direct verification of the Lockport daughter is done with the HathiTrust OCR query  
-   `q1="Mrs. Vernon C. Hawk"`  
-   which returns the survivors enumeration naming **Mrs. Vernon C. Hawk of Lockport, New York**.
-5. Kept one Chief Clerk Vol. 2 deep link (`#page=2370` / printed p. 5392) only as official California Assembly corroboration of that same survivors line — not as a keyword-search path.
+2. Added the searchable full-view Google Books OCR of the official *Statutes of California* 1959 v.2 (`id=qqtMAQAAMAAJ`).
+3. Identification of ACR No. 6 uses the in-book OCR query `q="Assembly Concurrent Resolution No. 6"` (printed p. 5391; includes State Mother / Waverley findings in the same OCR text).
+4. Direct verification of the Lockport daughter uses `q="Mrs. Vernon C. Hawk"` (printed p. 5392).
+5. Kept one Chief Clerk Vol. 2 deep link (`#page=2370` / printed p. 5392) only as official California Assembly corroboration — not as a keyword-search path.
+
+---
+
+## Reply 4 — HathiTrust not allowed
+
+**Suggestion / constraint:** HathiTrust is banned and not allowed.
+
+**Change made:** Removed all HathiTrust catalog/babel URLs. The searchable path is Google Books full-view OCR of Statutes of California 1959 v.2 (`https://books.google.com/books?id=qqtMAQAAMAAJ`), with Chief Clerk Vol. 2 `#page=2370` kept only for official CA Assembly corroboration. No `hathitrust.org` / `babel.hathitrust.org` links remain in GT or VS.

@@ -12,8 +12,10 @@ Mrs. Vernon C. Hawk
 ## Verification Sources
 (see VERIFICATION_SOURCES.md)
 
-## Reviewer fix note (Arnav major)
-Removed image-only `59Vol1_Measures.PDF` Ctrl+F path. ACR No. 6 identification and Mrs. Vernon C. Hawk verification now use searchable HathiTrust OCR of *Statutes of California* 1959 v.2 (`umn.31951d02287782u`). Chief Clerk Vol. 2 `#page=2370` kept only as official CA Assembly corroboration of the Lockport survivors line.
+## Reviewer fix notes
+- Arnav major: removed image-only `59Vol1_Measures.PDF` Ctrl+F path.
+- HathiTrust banned: searchable path is Google Books full-view OCR of Statutes of California 1959 v.2 (`qqtMAQAAMAAJ`) for ACR No. 6 + Mrs. Vernon C. Hawk.
+- Chief Clerk Vol. 2 `#page=2370` kept only as official CA Assembly corroboration.
 
 ## Response Failure Justification
 ChatGPT names Mrs. Robert E. Gibbons as the Lockport, New York daughter in the 1959 California Assembly Concurrent Resolution memorializing the San Diego widow cited as State Mother of California in 1949. That name does not appear in the resolution. Statutes of California 1959 Vol. 2, Resolution Chapter 18 / ACR No. 6 (Mrs. Ed. Fletcher), printed p. 5392, lists the Lockport daughter as Mrs. Vernon C. Hawk; the other daughters named in the same survivors clause are Mrs. B. H. Taylor and Mrs. H. Pitts Mack of San Diego. The model therefore invents a daughter who is not in the official survivors enumeration.
