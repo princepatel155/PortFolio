@@ -1,24 +1,20 @@
 # QC checklist — November 25th Merriam remark
 
+## GT_VLMC / URL parity (this QC fail)
+- GT Fetch URLs and VS URLs are identical (3 = 3, same order)
+- No clerk.assembly.ca.gov links anywhere in GT or VS
+- No Hardy / 59Vol1_Measures / 59Vol2_Chapters links on this task
+
 ## Banned / preferred sources
 - No archive.org / Wayback
 - No HathiTrust
-- No Wikipedia (decisive or otherwise)
-- No dead links (all three URLs return HTTP 200)
-- Hosts are Eisenhower Presidential Library only (preferred)
-
-## GT ↔ VS
-- Exact URL match (3 fetches = 3 verification sources)
-- Order matches
-- Decisive quote included in GT and VS
+- No Wikipedia
+- Eisenhower Library only; all three URLs HTTP 200
 
 ## Accessibility
-- Decisive PDF is ~3.6 MB / 2 pages (not a giant statutes dump)
-- Answer recoverable from quoted page-2 sentence without bulk unread scanning
+- Decisive PDF ~3.6 MB / 2 pages
+- Decisive Merriam sentence quoted in GT and VS
 
-## Prompt / answer form
-- Prompt ~70 words, plain text
-- Answer plain: November 25th (no LaTeX / currency markup)
-
-## Confirmed ChatGPT fail
-- Model answered January 2, 1959 (invented near-miss from Jan 3 admission / EO timing)
+## Prompt / answer
+- Answer plain: November 25th
+- Confirmed ChatGPT fail: January 2, 1959

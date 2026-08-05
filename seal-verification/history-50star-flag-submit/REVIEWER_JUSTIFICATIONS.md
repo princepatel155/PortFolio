@@ -1,15 +1,22 @@
-# Reviewer reply — Neeraj (Jul 24): 143 MB PDF / Winterer task withdrawn
+# Reviewer replies — History Merriam Nov 25 task
 
-## Justification — Critical verification depends on manually opening a ~143 MB PDF
+## Justification — GT_VLMC: GT/VS URL mismatch (Hardy clerk links vs Merriam Eisenhower links)
 
 **Reviewer suggestion:**  
-The Golden Trajectory's critical verification depends on manually opening and navigating a ~143 MB, 2,812-page PDF, which have already reported is difficult or impossible to reliably load and inspect. As a result, the final answer ("Mrs. Esther Pomeroy Winterer") cannot be independently reproduced from an accessible authoritative source by following the documented steps. The trajectory should instead cite an official source that directly exposes the relevant resolution or transmission clause in an accessible format, rather than relying on manual navigation within a massive scanned PDF.
+Verification Sources still listed California Chief Clerk / Statutes Vol. 1–2 links (`clerk.assembly.ca.gov` … `59Vol1_Measures.PDF#page=46`, `59Vol2_Chapters.pdf#page=2461`, `#page=2462`) that do not appear in the Golden Trajectory, while the Golden Trajectory’s Eisenhower flag / Merriam memo URLs were missing from Verification Sources.
 
 **Change made:**  
-The Hardy ACR / Mrs. Esther Pomeroy Winterer History task is withdrawn. Deep links into `59Vol2_Chapters.pdf` still require that same ~143 MB, 2,812-page scan to load, so they do not meet the accessibility requirement.
+Those clerk.assembly.ca.gov / Hardy ACR / Winterer statutes URLs are removed from Verification Sources entirely. They belonged to the withdrawn Mrs. Esther Pomeroy Winterer task and must not be submitted with this Merriam prompt.
 
-**Replacement History task (this package):**  
-Ask for the date in Merriam's remark from the Eisenhower Presidential Library November 19, 1958 memorandum of conference on flag design (`1958-11-19.pdf`). Answer: **November 25th**.
+Golden Trajectory and Verification Sources now use the same three Eisenhower Library URLs, in the same order:
+
+1. https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
+2. https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-11-19.pdf
+3. https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood
 
 **Why this fixes it:**  
-Critical verification no longer depends on Statutes of California Vol. 2. Every Verification Source is an Eisenhower Library HTML page or a small official scan (~3.6 MB, two pages). The decisive sentence is quoted in the Golden Trajectory and Verification Sources, so a reviewer can reproduce the answer without opening a massive unread PDF.
+GT ↔ VS exact URL parity is restored. No Statutes of California / clerk.assembly.ca.gov links remain on this task.
+
+## Justification — Neeraj (Jul 24): 143 MB PDF / Winterer task withdrawn
+
+The Hardy ACR / Mrs. Esther Pomeroy Winterer History task remains withdrawn. Critical verification for that ask depended on `59Vol2_Chapters.pdf` (~143 MB). This Merriam replacement uses only Eisenhower Library HTML pages and a small official two-page scan (~3.6 MB).
