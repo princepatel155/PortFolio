@@ -17,4 +17,4 @@
 - [x] Decisive: Oct 1959 Service credit 2,876 → 2876 million dollars
 
 ## Burn
-- [ ] Confirmed ChatGPT fail (pending)
+- [x] Confirmed ChatGPT fail — invented **899 million dollars**; cited Nov 1959 / Dec 1960 instead of Dec 1959 table

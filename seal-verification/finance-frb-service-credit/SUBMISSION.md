@@ -27,3 +27,7 @@ Final answer
 1. https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
 2. https://fraser.stlouisfed.org/files/docs/publications/FRB/1950s/frb_121959.pdf
 3. https://fraser.stlouisfed.org/files/docs/publications/FRB/1950s/frb_121959.pdf#page=75
+---
+
+## Burn result
+ChatGPT fail confirmed: answered **899 million dollars** and cited November 1959 / December 1960 Bulletin fulltext instead of December 1959 p. 1524 (service credit **2,876**). Correct answer: **2876 million dollars**.
