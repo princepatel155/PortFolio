@@ -11,5 +11,5 @@
 - [x] Plain answer (ASCII fractions; no LaTeX)
 - [x] Does not reuse Motocross 83.95 or shipping-weight 6 pounds 5 ounces
 
-## Invent / burn path
-- [x] IA OCR garble documented (`14x914x3%4`) → invent 14 x 9 1/4 x 3 3/4 inches
+## Confirmed ChatGPT fail
+- [x] Invented 14 x 9 1/4 x 3 3/4 inches (cited archive.org; IA OCR garble `14x914x3%4`)
