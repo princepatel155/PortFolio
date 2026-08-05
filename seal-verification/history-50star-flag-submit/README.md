@@ -1,15 +1,13 @@
-# History — Park Street Church denied first 50-star display
+# History — four Members of Congress in 1953 Furlong letter
 
 ## Why rewritten
-ChatGPT solved the HTML-page dates (August 17, 1959 submission; July 4, 1960 Fort McHenry raising). This version requires the June 3, 1960 Merriam letter PDF.
+ChatGPT solved the Library HTML dates and the Park Street Church letter. This ask forces a close read of the July 14, 1953 DDE-to-Furlong PDF against a contradictory HTML summary.
+
+## Failure mode
+Overview page says Eisenhower preferred a **six-member** joint committee with **no** Members of Congress. The July 14 letter instead recounts a suggestion that includes **four** Members of Congress.
 
 ## Answer
-**Park Street Church**
-
-## Main decoys
-- Old North Church / other famous Boston churches
-- Fort McHenry (the chosen site, not the denied request)
-- Reverend J. Murray Marshall (the requester, not the church)
+**four**
 
 ## Sources
-Eisenhower hawaii-statehood + flag design index page + 1960-06-03.pdf (~1.5 MB). No archive.org / HathiTrust / Wikipedia / 143 MB statutes PDF.
+Flag design overview HTML + 1953-07-14.pdf + 1953-06-08.pdf. No archive.org / HathiTrust / Wikipedia / 143 MB statutes PDF.
