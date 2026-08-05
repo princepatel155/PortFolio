@@ -1,15 +1,15 @@
-Search "Alaska statehood date Eisenhower"
+Search "Hawaii statehood date Eisenhower"
 
-Fetch https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood
-Alaska became a state on January 3, 1959. That is the calendar year named in the prompt.
+Fetch https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
+Hawaii became a state on August 21, 1959. The calendar year after that admission is 1960.
 
 Search "Eisenhower Library design 49 and 50 star flags"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
-Library page on the 49- and 50-star flag design process. It says the 50-star flag was first officially raised over Fort McHenry National Historic Site on July 4, 1960, with Secretary of the Interior Fred A. Seaton presiding. Reject nearby decoys on the same page: July 4, 1959 (first raising of the 49-star flag), August 17, 1959 (committee submission of 50-star designs), and August 21, 1959 (Executive Order 10834).
+Library overview of the flag-design documents. Use it to locate the June 3, 1960 White House letter in the document list for this topic.
 
-Fetch https://www.eisenhowerlibrary.gov/research/online-documents/hawaii-statehood
-Hawaii admission is August 21, 1959, the same day as EO 10834, which is a decoy for the later Fort McHenry raising date.
+Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1960-06-03.pdf
+Open the June 3, 1960 letter from Robert E. Merriam to Congressman Laurence Curtis. It says the President decided to have the first fifty-star flag displayed at Fort McHenry at 12:01 a.m. on July 4, 1960, which made it impossible to comply with the request of Reverend J. Murray Marshall that the first display be over the Park Street Church in Boston. Record Park Street Church. Do not substitute other famous Boston churches.
 
 Final answer
-July 4, 1960
+Park Street Church
