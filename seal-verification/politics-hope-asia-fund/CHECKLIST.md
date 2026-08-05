@@ -14,7 +14,6 @@
 ## Accessibility
 - Decisive PDF ~0.76 MB / 2 pages
 
-## Expected GPT fails
-- Mutual Security / ICA / Asia Foundation inventions
-- Great White Fleet funding conflation
-- Private pledge figures ($200,000 / $750,000) instead of the reappropriated fund name
+## Confirmed ChatGPT fail
+- Invented "Mutual Security contingency fund" (not in the memo)
+- Correct: Asia Redevelopment Fund
