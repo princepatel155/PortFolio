@@ -16,4 +16,4 @@
 - [x] Decisive: Tank CONSOLE 8 1/2 x 12 x 2 1/4 inches
 
 ## Burn
-- [ ] Confirmed ChatGPT fail (pending)
+- [x] Confirmed ChatGPT fail — invented **11 1/2 x 8 x 2 1/2 inches**; cited Television Digest / World Radio History instead of Sears catalog page 5
