@@ -1,0 +1,8 @@
+SUPERSEDED — Do not submit.
+
+ChatGPT solved the Carson O. Crocker / HO–10 dual-capacity stump (named-document footnote hop).
+
+Replacement Politics package:
+  seal-verification/politics-blanchard-nicaragua/
+  Answer: Louis F. Blanchard
+  Branch: cursor/politics-blanchard-nicaragua-2b13
