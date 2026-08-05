@@ -25,3 +25,6 @@ Final answer
 1. https://christmas.musetechnical.com/ShowCatalog/1977-Sears-Christmas-Book
 2. https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-Book/2
 3. https://christmas.musetechnical.com/ShowCatalogPage/1977-Sears-Christmas-Book/5
+
+## Burn result
+ChatGPT fail confirmed: answered **11 1/2 x 8 x 2 1/2 inches** from Television Digest / World Radio History instead of Sears catalog CONSOLE **8 1/2 x 12 x 2 1/4 inches**.
