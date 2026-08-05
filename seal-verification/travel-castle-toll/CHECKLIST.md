@@ -1,27 +1,14 @@
-# QC checklist — Castle $20.68 first Seaway toll
+# QC checklist — Castle first toll 20.68 dollars
 
-## Banned / preferred sources
-- No archive.org / Wayback
-- No HathiTrust / babel.hathitrust.org
-- No Wikipedia
-- No dead links (all three URLs HTTP 200)
-- Hosts: Eisenhower Presidential Library only
+## Banned / preferred
+- No archive.org / HathiTrust / Wikipedia
+- Eisenhower Library only; URLs HTTP 200
+- Plain answer: 20.68 dollars (no dollar-sign markup)
 
 ## GT ↔ VS
-- Exact URL match (3 fetches = 3 verification sources)
-- Same order
-- Decisive page-2 Tolls Assessment amount in GT and VS
-- Eisenhower overview in-page location: introductory narrative paragraph (Wiley-Dondero / 114-mile channel)
+- Exact URL match (3 = 3, including #page=2)
+- Seaway intro paragraph location specified
+- Page-1 decoy called out; page-2 U.S. column is decisive
 
 ## Accessibility
-- Decisive PDF two pages (letter + Tolls Assessment enclosure)
-- Not a giant unread dump
-
-## Prompt / answer form
-- Prompt does not quote SIMCOE / 1783 / $112,595.73 / $50.64 from the answer vicinity
-- Answer plain: $20.68
-
-## Expected GPT fails
-- $112,595.73 (page-1 first 3½-day total billings)
-- $50.64 (Canadian-funds column on same form)
-- Invented round first-invoice figure from Simcoe lore
+- 2-page official scan (~16.5 MB), not a giant statutes dump

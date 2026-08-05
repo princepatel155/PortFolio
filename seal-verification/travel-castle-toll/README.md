@@ -1,10 +1,15 @@
-# Travel — $20.68 (Castle May 1, 1959 first Seaway toll invoice)
+# Travel — 20.68 dollars (first Seaway toll U.S. assessment)
+
+## Why rewritten
+ChatGPT solved the Weeks Lebanon–Hazelgreen **2.6 miles** ask by opening that letter. This ask puts a strong decoy on page 1 of the same packet (**112,595.73 dollars** total billings) while the answer is the page-2 U.S. funds column on the enclosed first invoice.
 
 ## Answer
-**$20.68**
+**20.68 dollars**
 
-## Why it should stump ChatGPT
-Castle’s cover letter (page 1) highlights **$112,595.73** in total billings for the first three and one-half days, and popular Seaway lore names the Simcoe as the first commercial transit — neither yields the U.S.-funds amount on the enclosed first Tolls Assessment. That scanned form (page 2) shows **$20.68** payable to the Saint Lawrence Seaway Development Corporation (U.S. funds), with **$50.64** in the Canadian column.
+## Expected GPT fails
+- 112,595.73 dollars (page-1 multi-day total)
+- 50.64 dollars (Canadian-funds column)
+- Round invented "first invoice" figures
 
 ## Sources
-Eisenhower St. Lawrence Seaway page + Castle PDF (page 2). No archive.org / HathiTrust / Wikipedia.
+Eisenhower St. Lawrence Seaway page + Castle May 1, 1959 PDF. No archive.org / HathiTrust / Wikipedia. Plain answer text (no currency symbol).
