@@ -1,15 +1,13 @@
-# Reviewer reply — Hardy 143 MB PDF issue (why this replacement)
+# Reviewer notes — why this replaces earlier flag asks
 
-## Justification — Critical verification depends on manually opening a ~143 MB PDF
+## Why Park Street Church was burned
+The Library document title itself names Park Street Church. ChatGPT found the related Marshall and Merriam letters and answered correctly. Title-level and near-title facts are too easy.
 
-Reviewer suggestion:
-The Golden Trajectory's critical verification depends on manually opening and navigating a ~143 MB, 2,812-page PDF. The answer cannot be independently reproduced from an accessible authoritative source. Cite an official source that directly exposes the relevant text in an accessible format.
+## Why HTML dates were burned
+August 17, 1959 and July 4, 1960 appear in the overview narrative on the same Eisenhower Library page.
 
-Change made:
-The Hardy ACR / Short Hills daughter task is withdrawn. Deep links into 59Vol2_Chapters.pdf still require that same massive scan to load, so they do not meet the accessibility requirement.
+## Why this ask is harder
+The September 5, 1958 memorandum for Governor Adams lists a proposed Administration-only advisory group that includes GSA - Mr. Floete. That name does not appear in the overview narrative, the October 16 press release, or document titles. The answer requires opening the scanned memo PDF and reading the membership list.
 
-Replacement History task (this package):
-Ask for the date the committee formally submitted fifty-star flag designs, verified on Eisenhower Presidential Library HTML pages only (alaska-statehood, design-49-and-50-star-flags, hawaii-statehood). No Statutes of California Vol. 2 PDF.
-
-Why this fixes it:
-Every verification URL is a normal Library webpage a reviewer can open without downloading a 143 MB file. The decisive sentence is on the flag-design page itself.
+## Failure justification (if ChatGPT invents another name)
+The model did not report the GSA name from the September 5, 1958 memorandum for Governor Adams in the Eisenhower Library flag-design collection. That memo lists appropriate membership for an Administration-officials advisory group and names Mr. Floete for GSA. Other names on the same list (Murray Snyder, Secretary Herter, Secretary Seaton, Mr. Finley, Mr. Whittier) or members of the later informal committee announced on October 16, 1958 are incorrect for this ask.

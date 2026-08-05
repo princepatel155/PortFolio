@@ -1,13 +1,13 @@
 Search "Eisenhower Library design 49 and 50 star flags"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/design-49-and-50-star-flags
-Overview page for the flag-design documents. The summary text describes a six-member joint committee with no Members of Congress. That summary is not the ask. In the document list, open the July 14, 1953 letter from DDE to Admiral Furlong.
+Overview page for the flag-design documents. The narrative covers later committee work by State, Defense, Treasury, and Fine Arts. It does not name a GSA representative. In the document list, open the September 5, 1958 memorandum for Governor Adams regarding the procedure for flag modification.
 
-Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1953-07-14.pdf
-Read the July 14, 1953 letter. Eisenhower says a specific suggestion has been made that a committee be appointed composed of four Members of Congress, three representatives of the Armed Services, and one representative each from the Department of State, the Interior Department, and the Commission of Fine Arts. The prompt asks only how many Members of Congress that suggested committee would include. Record four. Do not answer with the overview page's six-member total.
+Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-09-05.pdf
+Read the September 5, 1958 memorandum. It proposes forming the group exclusively of Administration officials and lists appropriate membership: Defense - Murray Snyder; State - Secretary Herter; Interior - Secretary Seaton; Fine Arts - Mr. Finley; Veterans - Mr. Whittier; GSA - Mr. Floete. The prompt asks only who was named for GSA. Record Mr. Floete. Do not substitute later committee members from the overview page.
 
-Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1953-06-08.pdf
-Supporting prior letter from William Furlong to DDE on flag design as an executive-branch function, which sets up the July 14 reply.
+Fetch https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/flag/1958-10-16.pdf
+Supporting October 16, 1958 press release announcing the informal group the White House actually used (State, Defense, Treasury, and Fine Arts). That later group does not include GSA and does not name Mr. Floete, which confirms the September 5 list is a distinct earlier proposal.
 
 Final answer
-four
+Mr. Floete
