@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT. Expected fail modes: unscaled 59590; neighbor Georgia/Idaho capital totals; same-row assets or deposits; confusing E.4 with the OCC national-bank Hawaii capital figure 19,729,000.)
