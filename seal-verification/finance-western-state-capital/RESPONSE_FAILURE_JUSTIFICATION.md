@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT on this prompt. Expected fail modes: inventing a component line such as 150,200 dollars or 25,000 dollars; rounding the total to 200,000 dollars; or naming Oscar Brosz / an incorporator instead of the capital total.)
