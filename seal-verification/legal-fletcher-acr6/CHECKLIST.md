@@ -1,13 +1,20 @@
-# Checklist — Fletcher ACR 6 Lockport daughter
+# QC checklist — Fletcher ACR 6 / Mrs. Vernon C. Hawk
 
-## GLM / QC
-- Words: ~85  
-- Multi-hop Legal; single person answer from survivors enumeration  
-- Deep `#page=` links + quoted decisive sentence (no unread 143 MB navigation)  
-- No HathiTrust / archive.org / Wikipedia  
-- GT↔VS exact URL match; Searches do not leak Hawk / Fletcher / Lockport pairing  
+## URL accessibility / reproducibility
+- [x] No `\_` escapes in any URL
+- [x] Image-only Measures Table of Resolutions PDF removed from GT/VS
+- [x] No Ctrl+F / keyword-search instruction against image-only Chief Clerk PDFs
+- [x] Searchable official source: HathiTrust OCR *Statutes of California* 1959 v.2 (`umn.31951d02287782u`)
+- [x] OCR query identifies ACR No. 6 (`q1="Assembly Concurrent Resolution No. 6"`)
+- [x] OCR query verifies Mrs. Vernon C. Hawk (`q1="Mrs. Vernon C. Hawk"`)
+- [x] Eisenhower Alaska + Chief Clerk Vol. 2 `#page=2370` corroboration HTTP 200
+- [x] Hathi catalog API confirms Record `010587406` item `umn.31951d02287782u` = 1959 v.2, rights `pd`
 
-## Expected GPT fails
-- Mrs. B. H. Taylor or Mrs. H. Pitts Mack (San Diego daughters)
-- Lawrence Fletcher (Piedmont — a son, not daughter)
-- Invented daughter name / wrong city
+## GT ↔ VS
+- [x] Exact URL match (5 fetches = 5 sources, same order)
+- [x] Decisive Lockport clause quoted
+- [x] No archive.org / Wikipedia decisive sources
+- [x] Searches do not leak Hawk / Fletcher / Lockport pairing
+
+## Answer
+- [x] Mrs. Vernon C. Hawk
