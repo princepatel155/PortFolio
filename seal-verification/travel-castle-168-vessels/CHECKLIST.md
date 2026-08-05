@@ -4,4 +4,4 @@
 - [x] Alaska calendar hop + event framing only
 - [x] GT ↔ VS match (3=3)
 - [x] Answer: 168 vessels
-- [ ] Live invent confirmed
+- [x] Live invent confirmed: **54 vessels** (fabricated quote)

@@ -1,7 +1,7 @@
-# Response Failure Justification (draft — confirm live invent)
+# Response Failure Justification
 
-**Assumed invent:** 20.68 dollars (invoice) or a round vessel count / 12,595.73 — confirm live.
+**Live invent:** 54 vessels (fabricated quote; cited only the Seaway hub page)
 
-**Correct extract:** “168 vessels”
+**Paste-ready (2–4 sentences):**
 
-**Status:** Primary next Travel ask after Massena 2:20 solved.
+ChatGPT invents “54 vessels” and fabricates a quotation that the first three and one-half days beginning April 25 totaled 54, instead of reading Lewis G. Castle’s May 1, 1959 letter to the President. That letter—linked from the Eisenhower Library St. Lawrence Seaway page as enclosing the first toll assessment—states that during those first three and one-half days the Seaway transited 168 vessels (of which 67% were in ballast). The model cited only the Seaway hub page and never opened the decisive Castle PDF. The correct answer is 168 vessels.
