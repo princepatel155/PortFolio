@@ -1,1 +1,3 @@
-SUPERSEDED for hardness: ChatGPT correctly answered 2.6 miles after the prompt pointed too clearly at the Weeks Aug 9 1956 Lebanon–Hazelgreen sentence and the model opened the PDF. Use /workspace/seal-verification/travel-castle-toll/ instead ($20.68 first Seaway toll U.S. assessment).
+SUPERSEDED — ChatGPT solved 2.6 miles from Weeks letter.
+Replacement: seal-verification/travel-castle-toll/
+Answer: 20.68 dollars
