@@ -1,0 +1,1 @@
+(Placeholder — burn-test ChatGPT on this prompt. Expected fail modes: naming Arnulf Ueland, the predecessor advanced to chairman/CEO; inventing a later year such as 1961 for Chapman’s presidency from secondary bank histories; or citing an unrelated Midland officer from the same Commercial West issue.)
