@@ -1,4 +1,4 @@
-Search "Eisenhower Library Lewis Castle first toll assessment Seaway May 1 1959"
+Search "Alaska statehood 1959" then "St. Lawrence Seaway first toll assessment Castle Eisenhower letter April 1959 vessels"
 
 Fetch https://www.eisenhowerlibrary.gov/research/online-documents/st-lawrence-seaway — On the Eisenhower Library St. Lawrence Seaway documents page, open the entry titled "Letter, Lewis Castle to President Eisenhower enclosing receipt of first toll assessment of the St. Lawrence Seaway dated April 27, 1959."
 
