@@ -1,6 +1,7 @@
 # QC checklist — 1959 Montgomery Ward DeLuxe Chiltonware
 
 ## Prompt / answer
+- [x] ~84 words (Seal 70–150); grammar cleaned (no broken “described as …, includes” stack)
 - [x] Hawaii calendar hop + Ward Christmas catalog event framing (no named Muse open-command)
 - [x] Answer: **2.77 dollars**
 - [x] Live invent confirmed: **5.98 dollars**

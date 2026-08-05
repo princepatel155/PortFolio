@@ -11,3 +11,6 @@ Muse Technical serves this scan as page 350 (`ShowCatalogPage/.../350`; image `0
 
 ## Banned sources
 GT/VS use only Eisenhower Library + Muse Technical. No Wikipedia, archive.org, or WishbookWeb in the trajectory or verification sources.
+
+## Prompt length / grammar fix
+Rewrote the relative-clause stack (“that is described as …, includes …, has …”) into a cleaner “available only at Wards, including …” form and trimmed to ~84 words (Seal recommended 70–150).
