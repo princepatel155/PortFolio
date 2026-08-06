@@ -12,7 +12,7 @@ Agreed. Removed the imperative “Use the Christmas catalog…” opener and the
 **Suggestion:** The prompt should be written in a clearer and more structured way instead of combining everything into one long sentence.
 
 **Reply / change made:**
-Agreed. The prompt was rewritten so it is no longer one combined sentence. It now has three short parts: (1) name the Sears Christmas catalog from the Hawaii-admission calendar year, (2) list the Gun Rack identifying features as a bullet list, and (3) ask for the cash price of that item. The identifying cues are unchanged; only the structure was clarified.
+Agreed. The prompt is no longer one combined sentence. It opens as a direct price question, then lists the Gun Rack identifying features as a short bullet list. Identifying cues are unchanged; only the structure was clarified (and the later process-instruction rewrite removed any “use/find” research-path wording).
 
 ## Reply 2 — Major (Pratibha): GT needs Step 1/2/3 Search–Fetch–Verify; answer must be Ctrl+F highlightable
 
