@@ -1,17 +1,13 @@
 # Shopping — 1959 Sears Christmas Book Western Gun Rack price
 
 ## Prompt
-Use the Christmas catalog Sears, Roebuck and Co. published in the calendar year Hawaii was admitted as a U.S. state.
-
-Among that catalog’s children’s cap-gun and play-weapons pages, find the Western-style Gun Rack that meets all of the following:
+In the calendar year Hawaii was admitted as a U.S. state, what cash price did Sears, Roebuck and Co. advertise in its Christmas catalog for the Western-style Gun Rack that meets all of the following:
 
 - advertised as teaching neatness
 - made of stained pine with a burned-in western design
 - eight hooks for four rifles and three pegs for hats or pistols
 - about 20 inches wide and 20½ inches high
 - sold partly assembled under a Sears catalog number in the 79 N series
-
-What cash price is listed for that Gun Rack?
 
 ## Answer
 3.39 dollars
