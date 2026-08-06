@@ -1,20 +1,10 @@
-# QC checklist — 1977 Sears Tele-Games Video Arcade console size
+# QC Checklist — Video Arcade console size
 
-## Process / sources
-- [x] Prompt uses event/product framing (no named institutional archive lookup)
-- [x] Muse Technical catalog pages only in GT/VS (no Wikipedia / archive.org / WishbookWeb)
-- [x] URLs HTTP 200
-
-## Prompt / answer
-- [x] Grammar: "two joysticks and two paddle controls"
-- [x] Final question asks length-by-width-by-height console size in inches (not shipping weight)
-- [x] Answer is 14 x 9 1/2 x 3 3/4 inches
-
-## GT ↔ VS
-- [x] Exact URL match (2 fetches = 2 sources, same order)
-- [x] Decisive page-2 CONSOLE size 14 x 9 1/2 x 3 3/4 inches
-- [x] Plain answer (ASCII fractions; no LaTeX)
-- [x] Does not reuse Motocross 83.95 or shipping-weight 6 pounds 5 ounces
-
-## Confirmed ChatGPT fail
-- [x] Invented 14 1/2 x 9 x 4 inches (cited Atari Compendium manual PDF; not the Wish Book CONSOLE line)
+- [x] Multi-hop: Carter inauguration year → 1977 Sears Christmas Book → Video Arcade CONSOLE size
+- [x] Prompt is a question with constraints (not “Wish Book that introduced Video Arcade” + same-page ask)
+- [x] No process instructions (“Use…”, “Find among…”)
+- [x] GT uses Step 1 / Step 2 / Step 3 with Search, Fetch, Verify
+- [x] Decisive source is searchable `pageOCRWords` JSON (Ctrl+F: `14x91/2x33/4 in. high`)
+- [x] GT ↔ VS exact URL match (3 = 3)
+- [x] Answer: 14 x 9 1/2 x 3 3/4 inches
+- [x] No archive.org / Wikipedia / HathiTrust

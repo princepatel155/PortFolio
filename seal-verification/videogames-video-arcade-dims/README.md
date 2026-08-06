@@ -1,12 +1,9 @@
 # Video Games — 1977 Sears Tele-Games Video Arcade console size
 
-Confirmed ChatGPT fail (invented 14 1/2 x 9 x 4 inches from an Atari Compendium owner’s manual; true Wish Book size 14 x 9 1/2 x 3 3/4 inches).
+## Reviewer fix (Arayik)
+- Prompt rewritten as a true multi-hop: Carter inauguration year → Sears Christmas catalog → Video Arcade listing size
+- Removed the single-hop “Wish Book that introduced Video Arcade” framing
+- GT/VS use Step Search/Fetch/Verify and Muse Catalogs.Api OCR (Ctrl+F highlightable)
 
-Prompt asks length-by-width-by-height console size in inches (not shipping weight). Grammar uses "two joysticks".
-
-Replaces superseded asks:
-- Motocross cash price (83.95 dollars) — solved via mcurrent
-- Video Arcade shipping weight (6 pounds 5 ounces) — solved via Internet Archive
-
-- Answer: 14 x 9 1/2 x 3 3/4 inches
-- Artifacts: `/opt/cursor/artifacts/videogames-video-arcade-dims/`
+## Answer
+**14 x 9 1/2 x 3 3/4 inches**

@@ -1,21 +1,22 @@
 # Reviewer Justifications — Video Games / Tele-Games Video Arcade console size
 
-## Domain fit
-Video Arcade is the Sears Tele-Games cartridge console (Atari VCS OEM) introduced in the 1977 Christmas Wish Book. Console size is printed in the CONSOLE specification block on that debut listing.
+## Reply — Major (Arayik): not a multi-hop chain
 
-## Seal flag — Spelling and grammar
-**Suggestion:** "two joystick and two paddle controls" → "two joysticks and two paddle controls".  
-**Change made:** Prompt and package copy now use "two joysticks and two paddle controls".
+**Suggestion:** This is an interesting prompt, but it's not a multi-hop chain. You need to have constraints that lead to the final question, instead of giving specific information and then asking a question.
 
-## Seal flag — Prompt / answer alignment
-**Suggestion:** Checker said the prompt asked for shipping weight while the answer gave dimensions.  
-**Change made:** Rewrote the final question to ask explicitly for "length-by-width-by-height console size in inches". The answer remains the printed CONSOLE size, 14 x 9 1/2 x 3 3/4 inches (not the shipping weight 6 pounds 5 ounces on the same listing).
+**Reply / change made:**
+Agreed. The prior prompt named the Wish Book by the Video Arcade introduction event and then asked for that same console’s size on the intro page, so the catalog hop and the answer hop collapsed into one step.
 
-## Why this replaces prior asks
-Cash price (178.95 dollars) and shipping weight (6 pounds 5 ounces) are cleanly readable in Internet Archive OCR and were solved. The fraction line is not: IA renders `14x914x3%4 in. high` while the Muse page image / OCR read `14x91/2x33/4 in. high` (14 x 9 1/2 x 3 3/4 inches).
+Rewrote the prompt so constraints lead to the question:
+1. **Year hop:** calendar year Jimmy Carter was inaugurated as President → 1977  
+2. **Catalog hop:** Sears Christmas catalog from that year  
+3. **Listing hop:** Tele-Games Video Arcade unit with Target Fun, two joysticks and two paddle controls, 6 C 997 series → printed console size
 
-## Confirmed ChatGPT fail
-ChatGPT answered 14 1/2 x 9 x 4 inches and cited an Atari Compendium Sears Tele-Games owner’s-manual PDF (model 637.99743) instead of reading the Wish Book CONSOLE line. True printed catalog size is 14 x 9 1/2 x 3 3/4 inches.
+The prompt no longer tells the model which Wish Book “introduced” Video Arcade; the model must resolve the inauguration year, then the 1977 Sears Christmas Book, then the listing.
 
-## Same-page decoys
-Well-known 178.95 dollars cash price; shipping weight 6 pounds 5 ounces; accessory weights 4 ounces / 6 ounces. None is the asked CONSOLE size.
+Also updated GT/VS to Step 1 / Step 2 / Step 3 (Search, Fetch, Verify) and replaced the image-only Muse `ShowCatalogPage/.../2` with Muse Catalogs.Api JSON so the size is Ctrl+F highlightable in `pageOCRWords` as `14x91/2x33/4 in. high`. Answer remains **14 x 9 1/2 x 3 3/4 inches**.
+
+## Prior QC notes retained
+- Prompt grammar uses “two joysticks and two paddle controls.”
+- Question asks for length-by-width-by-height console size (not shipping weight).
+- Confirmed ChatGPT fail: invented 14 1/2 x 9 x 4 inches from a secondary owner’s manual.
